@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author barbe
+ *
+ */
+module GiocoCuccagna {
+}
